@@ -8,6 +8,7 @@ fengcx.com
 ichat.3g.ifeng.com
 p0.ifengimg.com
 shankapi.ifeng.com
+stadig.ifeng.com
 
 # Google
 play.google.com
@@ -25,6 +26,16 @@ updates-http.cdn-apple.com
 updates.cdn-apple.com
 world-gen.g.aaplimg.com
 xp.apple.com
+
+# Nintendo
+c.shop.nintendowifi.net
+cbvc.cdn.nintendo.net
+cbvc.nintendo.net
+nus.c.shop.nintendowifi.net
+nus.cdn.c.shop.nintendowifi.net
+nus.cdn.shop.wii.com
+nus.cdn.wup.shop.nintendo.net
+nus.wup.shop.nintendo.net
 
 # Adobe
 192.150.14.69
@@ -170,13 +181,3 @@ www.wip3.adobe.com
 www.wip3.adobe.com
 www.wip4.adobe.com
 www.wip4.adobe.com
-
-# Nintendo
-c.shop.nintendowifi.net
-cbvc.cdn.nintendo.net
-cbvc.nintendo.net
-nus.c.shop.nintendowifi.net
-nus.cdn.c.shop.nintendowifi.net
-nus.cdn.shop.wii.com
-nus.cdn.wup.shop.nintendo.net
-nus.wup.shop.nintendo.net
