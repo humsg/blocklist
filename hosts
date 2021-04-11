@@ -29,7 +29,7 @@ gdmf.apple.com
 gg.apple.com
 mesu.apple.com
 ns.itunes.apple.com
-ocsp.apple.com
+#ocsp.apple.com
 ocsp.int-x3.letsencrypt.org
 swscan.apple.com
 updates-http.cdn-apple.com
