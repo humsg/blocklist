@@ -3,7 +3,8 @@
 cbu01.alicdn.com
 ulogs.umengcloud.com
 ulogs.umeng.com
-pingma.qq.com
+hm.baidu.com
+v1.cnzz.com
 
 # Bilibili
 cm.bilibili.com
@@ -14,6 +15,10 @@ k1-biligame.gslb.ksyuncdn.com
 live-trace.bilibili.com
 mall.bilibili.com
 miniapp.bilibili.com
+
+# NineOne
+fans.91p20.space
+poweredby.jads.co
 
 # ifeng.com
 #big1.ifengcdn.com
@@ -76,6 +81,9 @@ stadig0.ifeng.com
 y0.ifengimg.com
 y1.ifengimg.com
 ztyumn.ifeng.com
+
+# QQ
+pingma.qq.com
 
 # Google
 play.google.com
