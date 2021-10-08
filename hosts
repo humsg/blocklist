@@ -7,6 +7,9 @@ hm.baidu.com
 v1.cnzz.com
 poweredby.jads.co
 
+# Amazon
+images-na.ssl-images-amazon.com
+
 # Bilibili
 cm.bilibili.com
 data.bilibili.com
@@ -20,6 +23,9 @@ miniapp.bilibili.com
 # Facebook
 web.facebook.com
 www.facebook.com
+
+# Google
+play.google.com
 
 # ifeng.com
 #big1.ifengcdn.com
@@ -85,9 +91,6 @@ ztyumn.ifeng.com
 
 # QQ
 pingma.qq.com
-
-# Google
-play.google.com
 
 # Apple
 appldnld.apple.com
