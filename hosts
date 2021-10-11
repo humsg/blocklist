@@ -22,9 +22,10 @@ mall.bilibili.com
 miniapp.bilibili.com
 
 # Facebook
-web.facebook.com
-www.facebook.com
-connect.facebook.net
+#connect.facebook.net
+#graph.facebook.com
+#web.facebook.com
+#www.facebook.com
 
 # Google
 play.google.com
