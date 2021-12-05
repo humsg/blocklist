@@ -171,9 +171,9 @@ ereg.wip4.adobe.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 ims-na1.adobelogin.com
-lcs-cops.adobe.io
+#lcs-cops.adobe.io
 lcs-entitlement.adobe.io
-lcs-robs.adobe.io
+#lcs-robs.adobe.io
 lcs-ulecs.adobe.io
 licensing.adobe.co
 lm.licenses.adobe.com
