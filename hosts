@@ -1,15 +1,33 @@
 # Other
 #at.alicdn.com
 cbu01.alicdn.com
+alogs.umengcloud.com
+alogs.umeng.com
 ulogs.umengcloud.com
 ulogs.umeng.com
+uop.umeng.com
 hm.baidu.com
 v1.cnzz.com
 poweredby.jads.co
+t.appsflyer.com
 
 # Amazon
 #images-na.ssl-images-amazon.com
 aviary.amazon.com
+
+# Apple
+appldnld.apple.com
+gdmf.apple.com
+gg.apple.com
+mesu.apple.com
+ns.itunes.apple.com
+ocsp-a.g.aaplimg.com
+ocsp.apple.com
+ocsp.int-x3.letsencrypt.org
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+world-gen.g.aaplimg.com
+xp.apple.com
 
 # Bilibili
 cm.bilibili.com
@@ -20,6 +38,13 @@ k1-biligame.gslb.ksyuncdn.com
 live-trace.bilibili.com
 mall.bilibili.com
 miniapp.bilibili.com
+
+# COX?
+saqzrun.x.incapdns.net
+
+# DaysMatter
+daysmatter.com
+beta.daysmatter.com
 
 # Douban
 #img9.doubanio.com
@@ -33,6 +58,7 @@ www.facebook.com
 # Google
 play.google.com
 ssl.google-analytics.com
+www.googleadservices.com
 
 # ifeng.com
 #big1.ifengcdn.com
@@ -96,23 +122,6 @@ y0.ifengimg.com
 y1.ifengimg.com
 ztyumn.ifeng.com
 
-# QQ
-pingma.qq.com
-
-# Apple
-appldnld.apple.com
-gdmf.apple.com
-gg.apple.com
-mesu.apple.com
-ns.itunes.apple.com
-ocsp-a.g.aaplimg.com
-ocsp.apple.com
-ocsp.int-x3.letsencrypt.org
-updates-http.cdn-apple.com
-updates.cdn-apple.com
-world-gen.g.aaplimg.com
-xp.apple.com
-
 # Nintendo
 c.shop.nintendowifi.net
 cbvc.cdn.nintendo.net
@@ -124,6 +133,52 @@ nus.cdn.shop.wii.com
 #nus.cdn.wup.shop.nintendo.net
 #nus.wup.shop.nintendo.net
 cdn.treasuredata.com
+
+# QQ
+#dldir1.qq.com
+#dns.weixin.qq.com
+pingma.qq.com
+
+# ximalaya
+5x1g4qzg.e0.sched.ovscdns.com
+adbehavior.ximalaya.com
+adbs.ximalaya.com
+adse.wsa.ximalaya.com
+adsehera.ximalaya.com
+api2.ctc.ximalaya.com
+ar.ximalaya.com
+audio.ali.xmcdn.com
+bsf87q1e.e0.sched.ovscdns.com
+dns.ximalaya.com
+#download.ali.xmcdn.com
+#download.ali.xmcdn.com.w.alikunlun.com
+fdfs.xmcdn.com
+fdfs.xmcdn.com.w.cdngslb.com
+fdtuflwl.e0.sched.ovscdns.com
+gslbali.ximalaya.com
+gslbtx.ximalaya.com
+h9imt8jv.e0.sched.ovscdns.com
+#imagev2.xmcdn.com
+#imagev2.xmcdn.com.w.cdngslb.com
+lhu36lu8.e0.sched.ovscdns.com
+linkeye.ximalaya.com
+live.ximalaya.com
+livewsa.ximalaya.com
+location.ximalaya.com
+locationhera.ximalaya.com
+m.ximalaya.com
+mermaid.ximalaya.com
+mobile.tx.ximalaya.com
+mobile.ximalaya.com
+mp.ximalaya.com
+mwsa.ximalaya.com
+otbs.ctc.ximalaya.com
+passport.ximalaya.com
+passportws.ximalaya.com
+search.ximalaya.com
+searchwsa.ximalaya.com
+#www.ximalaya.com
+xdcs-collector.ximalaya.com
 
 # Adobe
 192.150.14.69
