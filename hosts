@@ -28,6 +28,11 @@ updates-http.cdn-apple.com
 updates.cdn-apple.com
 world-gen.g.aaplimg.com
 xp.apple.com
+api-glb-ash.smoot.apple.com
+api.smoot.apple.com
+bookkeeper.itunes.apple.com
+iphonesubmissions.apple.com
+keyvalueservice.fe.apple-dns.net
 
 # Bilibili
 cm.bilibili.com
@@ -43,6 +48,7 @@ miniapp.bilibili.com
 saqzrun.x.incapdns.net
 
 # DaysMatter
+app-cdn.2q10.com.wswebpic.com
 beta.daysmatter.com
 daysmatter.com
 icity-sh.2q10.com
@@ -174,6 +180,7 @@ locationhera.ximalaya.com
 mermaid.ximalaya.com
 mobile.tx.ximalaya.com
 mobile.ximalaya.com
+mphera.ximalaya.com
 mp.ximalaya.com
 mwsa.ximalaya.com
 otbs.ctc.ximalaya.com
