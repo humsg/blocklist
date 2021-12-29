@@ -1,17 +1,13 @@
 # Other
-#at.alicdn.com
-cbu01.alicdn.com
-alogs.umengcloud.com
-alogs.umeng.com
-errlog.umeng.com
-ulogs.umengcloud.com
-ulogs.umeng.com
-uop.umeng.com
-hm.baidu.com
-v1.cnzz.com
 poweredby.jads.co
 t.appsflyer.com
 events.appsflyer.com
+
+# Alibaba
+#at.alicdn.com
+cbu01.alicdn.com
+adashbc.ut.taobao.com
+adashxgc.ut.taobao.com
 
 # Amazon
 #images-na.ssl-images-amazon.com
@@ -36,6 +32,9 @@ daypass.api-glb-ash.smoot.apple.com
 bookkeeper.itunes.apple.com
 iphonesubmissions.apple.com
 keyvalueservice.fe.apple-dns.net
+
+# Baidu
+hm.baidu.com
 
 # Bilibili
 cm.bilibili.com
@@ -148,17 +147,24 @@ nus.cdn.shop.wii.com
 #nus.wup.shop.nintendo.net
 cdn.treasuredata.com
 
-# Taobao
-adashbc.ut.taobao.com
-adashxgc.ut.taobao.com
-
-# QQ
+# Tencent
 #dldir1.qq.com
-#dns.weixin.qq.com
+dns.weixin.qq.com
 pingma.qq.com
 sdk.e.qq.com
 
-# ximalaya
+# Umeng
+alogs.umengcloud.com
+alogs.umeng.com
+errlog.umeng.com
+sec.umeng.com
+ulogs.umengcloud.com
+ulogs.umeng.com
+uop.umeng.com
+log.umsns.com
+v1.cnzz.com
+
+# Ximalaya
 5x1g4qzg.e0.sched.ovscdns.com
 a8er47ax.e0.sched.ovscdns.com
 adbehavior.ximalaya.com
