@@ -69,6 +69,7 @@ pic.yupoo.com
 
 # Douban
 #img9.doubanio.com
+erebor.douban.com
 
 # Facebook
 connect.facebook.net
@@ -148,10 +149,12 @@ iis3g.deliver.ifeng.com
 ips.ifeng.com
 jiejg.ifeng.com
 mfp.deliver.ifeng.com
+nine.ifeng.com
 p0.ifengimg.com
 p1.ifengimg.com
 p2.ifengimg.com
 p3.ifengimg.com
+playtv-live.ifeng.com
 qcvf.ifeng.com
 qrcode.ifeng.com
 region.ifeng.com
@@ -167,6 +170,10 @@ ztyumn.ifeng.com
 # JD
 kepler.jd.com
 mapi.m.jd.com
+
+# Microsoft
+activity.windows.com
+settings-win.data.microsoft.com
 
 # Nintendo
 c.shop.nintendowifi.net
