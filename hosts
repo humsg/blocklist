@@ -1,17 +1,17 @@
 # Other
 poweredby.jads.co
-t.appsflyer.com
 events.appsflyer.com
+t.appsflyer.com
 dr.netease.im
 lbs.netease.im
 link.netease.im
 
 # Alibaba
 #at.alicdn.com
-cbu01.alicdn.com
 #vo.aicdn.com
 adashbc.ut.taobao.com
 adashxgc.ut.taobao.com
+cbu01.alicdn.com
 umdc.aliapp.org
 userlink.alicdn.com
 ynuf.aliapp.org
@@ -56,8 +56,8 @@ mall.bilibili.com
 miniapp.bilibili.com
 
 # COX
-#saqzrun.x.incapdns.net
 #coxappapi.cox.com
+#saqzrun.x.incapdns.net
 
 # DaysMatter
 app-cdn.2q10.com
@@ -78,19 +78,19 @@ web.facebook.com
 www.facebook.com
 
 # Flyertrip
+#flyerteaphoto.b0.aicdn.com
+#ptf.flyertrip.com
 3n73bsog.tweb.sched.ovscdns.com
 ap2.qiyukf.com
 api.map.baidu.com
 api.map.n.shifen.com
 atf.flyertrip.com
 disp-mazumv6tmp.ias.tencent-cloud.net
-#flyerteaphoto.b0.aicdn.com
 kepler.jd.com.gslb.qianxun.com
 license.vod2.myqcloud.com
 mapi.m.jd.com.gslb.qianxun.com
 mlvbdc.live.qcloud.com
 outsea.yun-app.net
-#ptf.flyertrip.com
 qzs.gdtimg.com
 stat2.openinstall.io
 userlink.alicdn.com.danuoyi.tbcache.com
@@ -192,7 +192,7 @@ cdn.treasuredata.com
 
 # Tencent
 #dldir1.qq.com
-dns.weixin.qq.com
+#dns.weixin.qq.com
 mazu.m.qq.com
 pingma.qq.com
 sdk.e.qq.com
@@ -209,6 +209,12 @@ log.umsns.com
 v1.cnzz.com
 
 # Ximalaya
+#imagev2.xmcdn.com
+#imagev2.xmcdn.com.w.cdngslb.com
+#download.ali.xmcdn.com
+#download.ali.xmcdn.com.w.alikunlun.com
+#m.ximalaya.com
+#www.ximalaya.com
 5x1g4qzg.e0.sched.ovscdns.com
 a8er47ax.e0.sched.ovscdns.com
 adbehavior.ximalaya.com
@@ -220,23 +226,18 @@ ar.ximalaya.com
 audio.ali.xmcdn.com
 bsf87q1e.e0.sched.ovscdns.com
 dns.ximalaya.com
-#download.ali.xmcdn.com
-#download.ali.xmcdn.com.w.alikunlun.com
 fdfs.xmcdn.com
 fdfs.xmcdn.com.w.cdngslb.com
 fdtuflwl.e0.sched.ovscdns.com
 gslbali.ximalaya.com
 gslbtx.ximalaya.com
 h9imt8jv.e0.sched.ovscdns.com
-#imagev2.xmcdn.com
-#imagev2.xmcdn.com.w.cdngslb.com
 lhu36lu8.e0.sched.ovscdns.com
 linkeye.ximalaya.com
 live.ximalaya.com
 livewsa.ximalaya.com
 location.ximalaya.com
 locationhera.ximalaya.com
-#m.ximalaya.com
 mermaid.ximalaya.com
 mobile.tx.ximalaya.com
 mobile.ximalaya.com
@@ -249,7 +250,6 @@ passport.ximalaya.com
 passportws.ximalaya.com
 search.ximalaya.com
 searchwsa.ximalaya.com
-#www.ximalaya.com
 wwwbs.ximalaya.com
 xdcs-collector.ximalaya.com
 
