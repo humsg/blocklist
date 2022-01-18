@@ -38,6 +38,7 @@ api-glb-ash.smoot.apple.com
 daypass.api-glb-ash.smoot.apple.com
 bookkeeper.itunes.apple.com
 iphonesubmissions.apple.com
+keyvalueservice.icloud.com
 keyvalueservice.fe.apple-dns.net
 fbs.smoot.apple.com
 a2047.dscb.akamai.net
@@ -110,6 +111,7 @@ rr4---sn-a5m7lnlz.googlevideo.com
 rr5---sn-a5mlrn7l.googlevideo.com
 rr5---sn-a5msenek.googlevideo.com
 rr6---sn-a5mlrnez.googlevideo.com
+adservice.google.com
 play.google.com
 ssl.google-analytics.com
 www.googleadservices.com
@@ -187,6 +189,7 @@ mapi.m.jd.com
 # Microsoft
 activity.windows.com
 settings-win.data.microsoft.com
+cs9.wac.phicdn.net
 
 # Nintendo
 c.shop.nintendowifi.net
@@ -206,6 +209,7 @@ cdn.treasuredata.com
 # Tencent
 #dldir1.qq.com
 #dns.weixin.qq.com
+#hklong.weixin.qq.com
 #mmbiz.qpic.cn
 #res.wx.qq.com
 badjs.weixinbridge.com
@@ -230,7 +234,10 @@ v1.cnzz.com
 #imagev2.xmcdn.com.w.cdngslb.com
 #download.ali.xmcdn.com
 #download.ali.xmcdn.com.w.alikunlun.com
-#m.ximalaya.com
+m.ximalaya.com
+bsf87q1e.e0.sched.ovscdns.com
+#passport.ximalaya.com
+#lhu36lu8.e0.sched.ovscdns.com
 #www.ximalaya.com
 5x1g4qzg.e0.sched.ovscdns.com
 a8er47ax.e0.sched.ovscdns.com
@@ -241,7 +248,6 @@ adsehera.ximalaya.com
 api2.ctc.ximalaya.com
 ar.ximalaya.com
 audio.ali.xmcdn.com
-bsf87q1e.e0.sched.ovscdns.com
 dns.ximalaya.com
 fdfs.xmcdn.com
 fdfs.xmcdn.com.w.cdngslb.com
@@ -249,9 +255,10 @@ fdtuflwl.e0.sched.ovscdns.com
 gslbali.ximalaya.com
 gslbtx.ximalaya.com
 h9imt8jv.e0.sched.ovscdns.com
-lhu36lu8.e0.sched.ovscdns.com
 linkeye.ximalaya.com
 live.ximalaya.com
+liveroom.ximalaya.com
+goju72w9.e0.sched.ovscdns.com
 livewsa.ximalaya.com
 location.ximalaya.com
 locationhera.ximalaya.com
@@ -261,11 +268,12 @@ mobile.ximalaya.com
 mobilehera.ximalaya.com
 mphera.ximalaya.com
 mp.ximalaya.com
+mts9tqva.e0.sched.ovscdns.com
 mwsa.ximalaya.com
 otbs.ctc.ximalaya.com
-#passport.ximalaya.com
 passportws.ximalaya.com
 search.ximalaya.com
+searchera.ximalaya.com
 searchwsa.ximalaya.com
 wwwbs.ximalaya.com
 xdcs-collector.ximalaya.com
