@@ -210,10 +210,15 @@ cdn.treasuredata.com
 #dldir1.qq.com
 #dns.weixin.qq.com
 #hklong.weixin.qq.com
+#hkextshort.weixin.qq.com
+#hkminorshort.weixin.qq.com
 #mmbiz.qpic.cn
 #res.wx.qq.com
+#res.wx.qq.com.sched.ssd.tdnsv6.com
+#wup.imtt.qq.com
 badjs.weixinbridge.com
 mazu.m.qq.com
+mttstr.beacon.qq.com
 pingma.qq.com
 sdk.e.qq.com
 wxa.wxs.qq.com
