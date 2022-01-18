@@ -46,6 +46,7 @@ a2047.dscb.akamai.net
 hm.baidu.com
 
 # Bilibili
+#upos-sz-mirrorcosov.bilivideo.com
 cm.bilibili.com
 data.bilibili.com
 dataflow.biliapi.com
@@ -97,6 +98,18 @@ userlink.alicdn.com.danuoyi.tbcache.com
 wanproxy-hz.127.net
 
 # Google
+#eligibility-panelresearch.googlevideo.com
+#redirector.googlevideo.com
+r2---sn-a5meknzk.googlevideo.com
+rr1---sn-a5mlrn7y.googlevideo.com
+rr2---sn-a5msenek.googlevideo.com
+rr3---sn-a5meknll.googlevideo.com
+rr3---sn-a5meknzk.googlevideo.com
+rr3---sn-a5mlrnez.googlevideo.com
+rr4---sn-a5m7lnlz.googlevideo.com
+rr5---sn-a5mlrn7l.googlevideo.com
+rr5---sn-a5msenek.googlevideo.com
+rr6---sn-a5mlrnez.googlevideo.com
 play.google.com
 ssl.google-analytics.com
 www.googleadservices.com
