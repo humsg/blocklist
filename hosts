@@ -120,6 +120,7 @@ www.googleadservices.com
 #big1.ifengcdn.com
 #d.ifengimg.com
 #i.ifeng.com
+#news.ifeng.com
 #x0.ifengimg.com
 #x2.ifengimg.com
 aa1.ifeng.com
@@ -209,19 +210,32 @@ cdn.treasuredata.com
 # Tencent
 #dldir1.qq.com
 #dns.weixin.qq.com
-#hklong.weixin.qq.com
+#hkaxshort.weixin.qq.com
+#hkdisas.weixin.qq.com
 #hkextshort.weixin.qq.com
+#hklong.weixin.qq.com
 #hkminorshort.weixin.qq.com
+#hkquic.weixin.qq.com
+#hkshort.pay.weixin.qq.com
+#hkshort.weixin.qq.com
+#hkshort6.weixin.qq.com
+#sgaxshort.wechat.com
+#sglong.wechat.com
+#sgminorshort.wechat.com
+#sgshort.pay.wechat.com
+#sgshort.wechat.com
 #mmbiz.qpic.cn
 #res.wx.qq.com
 #res.wx.qq.com.sched.ssd.tdnsv6.com
-#wup.imtt.qq.com
 badjs.weixinbridge.com
 mazu.m.qq.com
 mttstr.beacon.qq.com
 pingma.qq.com
 sdk.e.qq.com
 wxa.wxs.qq.com
+qbwup.imtt.qq.com
+wup.imtt.qq.com
+wup.html5.qq.com
 
 # Umeng
 alogs.umengcloud.com
@@ -239,11 +253,11 @@ v1.cnzz.com
 #imagev2.xmcdn.com.w.cdngslb.com
 #download.ali.xmcdn.com
 #download.ali.xmcdn.com.w.alikunlun.com
-m.ximalaya.com
-bsf87q1e.e0.sched.ovscdns.com
 #passport.ximalaya.com
 #lhu36lu8.e0.sched.ovscdns.com
 #www.ximalaya.com
+m.ximalaya.com
+bsf87q1e.e0.sched.ovscdns.com
 5x1g4qzg.e0.sched.ovscdns.com
 a8er47ax.e0.sched.ovscdns.com
 adbehavior.ximalaya.com
