@@ -221,6 +221,7 @@ cdn.treasuredata.com
 # Tencent
 #dldir1.qq.com
 #hkaxshort.weixin.qq.com
+#hkextshort.weixin.qq.com
 #hkdisas.weixin.qq.com
 #hkextshort.weixin.qq.com
 #hklong.weixin.qq.com
@@ -247,6 +248,12 @@ wxa.wxs.qq.com
 qbwup.imtt.qq.com
 wup.imtt.qq.com
 wup.html5.qq.com
+mmsns.c2c.wechat.com
+mmsns.qpic.wechatos.net
+#os.api.unipay.qq.com
+szmg.qq.com
+wxa.weixin.qq.com
+aewebproxy.weixin.qq.com
 
 # Umeng
 alogs.umengcloud.com
@@ -267,8 +274,8 @@ v1.cnzz.com
 #passport.ximalaya.com
 #lhu36lu8.e0.sched.ovscdns.com
 #www.ximalaya.com
-m.ximalaya.com
-bsf87q1e.e0.sched.ovscdns.com
+#bsf87q1e.e0.sched.ovscdns.com
+#m.ximalaya.com
 5x1g4qzg.e0.sched.ovscdns.com
 a8er47ax.e0.sched.ovscdns.com
 adbehavior.ximalaya.com
@@ -307,6 +314,8 @@ searchera.ximalaya.com
 searchwsa.ximalaya.com
 wwwbs.ximalaya.com
 xdcs-collector.ximalaya.com
+mhera.ximalaya.com
+3n9ngsc8.e0.sched.ovscdns.com
 
 # Adobe
 192.150.14.69
