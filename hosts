@@ -21,6 +21,8 @@ ynuf.aliapp.org
 aviary.amazon.com
 
 # Apple
+#weather-data.apple.com
+#a2047.dscb.akamai.net
 appldnld.apple.com
 gdmf.apple.com
 gg.apple.com
@@ -41,7 +43,6 @@ iphonesubmissions.apple.com
 keyvalueservice.icloud.com
 keyvalueservice.fe.apple-dns.net
 fbs.smoot.apple.com
-a2047.dscb.akamai.net
 
 # Baidu
 hm.baidu.com
