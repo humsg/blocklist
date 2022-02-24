@@ -40,7 +40,7 @@ api-glb-ash.smoot.apple.com
 daypass.api-glb-ash.smoot.apple.com
 bookkeeper.itunes.apple.com
 iphonesubmissions.apple.com
-keyvalueservice.icloud.com
+#keyvalueservice.icloud.com
 keyvalueservice.fe.apple-dns.net
 fbs.smoot.apple.com
 
