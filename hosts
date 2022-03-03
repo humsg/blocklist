@@ -380,8 +380,8 @@ location.ximalaya.com
 locationhera.ximalaya.com
 mermaid.ximalaya.com
 mobile.tx.ximalaya.com
-mobile.ximalaya.com
-mobilehera.ximalaya.com
+#mobile.ximalaya.com
+#mobilehera.ximalaya.com
 mphera.ximalaya.com
 mp.ximalaya.com
 mts9tqva.e0.sched.ovscdns.com
@@ -395,6 +395,8 @@ wwwbs.ximalaya.com
 xdcs-collector.ximalaya.com
 mhera.ximalaya.com
 3n9ngsc8.e0.sched.ovscdns.com
+ppstatic.test.ximalaya.com
+s1.xmcdn.com
 
 # Adobe
 192.150.14.69
