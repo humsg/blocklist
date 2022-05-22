@@ -194,16 +194,16 @@ settings-win.data.microsoft.com
 cs9.wac.phicdn.net
 
 # Nintendo
-c.shop.nintendowifi.net
-cbvc.cdn.nintendo.net
-cbvc.nintendo.net
-#discovery.olv.nintendo.net
-nus.c.shop.nintendowifi.net
-nus.cdn.c.shop.nintendowifi.net
-nus.cdn.shop.wii.com
-#nus.cdn.wup.shop.nintendo.net
-#nus.wup.shop.nintendo.net
-cdn.treasuredata.com
+#c.shop.nintendowifi.net
+#cbvc.cdn.nintendo.net
+#cbvc.nintendo.net
+##discovery.olv.nintendo.net
+#nus.c.shop.nintendowifi.net
+#nus.cdn.c.shop.nintendowifi.net
+#nus.cdn.shop.wii.com
+##nus.cdn.wup.shop.nintendo.net
+##nus.wup.shop.nintendo.net
+#cdn.treasuredata.com
 
 # Sina
 #api.weibo.com
