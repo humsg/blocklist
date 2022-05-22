@@ -198,12 +198,22 @@ cs9.wac.phicdn.net
 #cbvc.cdn.nintendo.net
 #cbvc.nintendo.net
 ##discovery.olv.nintendo.net
-#nus.c.shop.nintendowifi.net
-#nus.cdn.c.shop.nintendowifi.net
 #nus.cdn.shop.wii.com
 ##nus.cdn.wup.shop.nintendo.net
 ##nus.wup.shop.nintendo.net
 #cdn.treasuredata.com
+
+#conntest.nintendowifi.net
+#nus.c.shop.nintendowifi.net
+#ecs.c.shop.nintendowifi.net
+#ccs.c.shop.nintendowifi.net
+#nus.cdn.c.shop.nintendowifi.net
+#nncs1.app.nintendowifi.net
+#nncs2.app.nintendowifi.net
+#l-npns.app.nintendo.net
+#nppl.c.app.nintendowifi.net
+#nasc.nintendowifi.net
+#npdl.cdn.nintendowifi.net
 
 # Sina
 #api.weibo.com
