@@ -8,12 +8,18 @@ link.netease.im
 i.91p47.com
 fans.91p20.space
 
+#163
+appconf.mail.163.com
+analytics.163.com
+
 # Alibaba
 #at.alicdn.com
 #vo.aicdn.com
 adashbc.ut.taobao.com
 adashxgc.ut.taobao.com
 cbu01.alicdn.com
+gw.alicdn.com
+heic.alicdn.com
 umdc.aliapp.org
 userlink.alicdn.com
 ynuf.aliapp.org
@@ -48,6 +54,7 @@ fbs.smoot.apple.com
 
 # Baidu
 hm.baidu.com
+mobads.baidu.com
 
 # Bilibili
 #upos-sz-mirrorcosov.bilivideo.com
@@ -297,6 +304,7 @@ tpns.tencent.com
 api.poll.video.qq.com
 stat.tpns.tencent.com
 h.trace.qq.com
+mi.gdt.qq.com
 #vv.video.qq.com
 #soup.v.qq.com
 #ts.qq.com
