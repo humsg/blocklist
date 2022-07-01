@@ -121,6 +121,7 @@ adservice.google.com
 play.google.com
 ssl.google-analytics.com
 www.googleadservices.com
+www.google-analytics.com
 safebrowsing.googleapis.com
 
 # ifeng.com
@@ -242,6 +243,9 @@ cs9.wac.phicdn.net
 
 # Sina
 #api.weibo.com
+
+# Synology
+srmdb.synology.com
 
 # Tencent
 #dldir1.qq.com
