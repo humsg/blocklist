@@ -2,6 +2,7 @@
 poweredby.jads.co
 events.appsflyer.com
 t.appsflyer.com
+#best.ovslegodl.sched.ovscdns.com
 
 # 163
 appconf.mail.163.com
@@ -88,11 +89,20 @@ pic.yupoo.com
 #img9.doubanio.com
 erebor.douban.com
 #tc.forward.douban.com
+#forward.douban.com
 #amonsul.douban.com
 #artery.douban.com
 #sv1.doubanio.com
 #frodo.douban.com
 #qnmob3.doubanio.com.w.alikunlun.com
+#api.douban.com
+push.douban.com
+bjimp.voiceads.cn
+iflyad.bj.openstorage.cn
+janapi.jd.com.gslb.qianxun.com
+be0b0qfx.ovslegovideo.sched.apdcdn.com
+t-dsp.pinduoduo.com
+video-dsp.pddpic.com
 
 # Facebook
 connect.facebook.net
@@ -220,6 +230,7 @@ www.qchannel01.cn
 # JD
 kepler.jd.com
 mapi.m.jd.com
+xlog.jd.com
 
 # Microsoft
 activity.windows.com
