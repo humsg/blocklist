@@ -113,6 +113,8 @@ t-dsp.pinduoduo.com
 video-dsp.pddpic.com
 
 # Facebook
+ads.ak.facebook.com
+creative.ak.fbcdn.net
 connect.facebook.net
 graph.facebook.com
 web.facebook.com
@@ -142,13 +144,14 @@ wanproxy-hz.127.net
 #redirector.googlevideo.com
 #i.ytimg.com
 #yt3.ggpht.com
-#www.googletagmanager.co
+#www.googletagmanager.com
 adservice.google.com
 play.google.com
 ssl.google-analytics.com
 www.googleadservices.com
 www.google-analytics.com
 safebrowsing.googleapis.com
+update.googleapis.com
 
 # ifeng.com
 #big1.ifengcdn.com
