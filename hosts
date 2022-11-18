@@ -151,7 +151,7 @@ ssl.google-analytics.com
 www.googleadservices.com
 www.google-analytics.com
 safebrowsing.googleapis.com
-update.googleapis.com
+#update.googleapis.com
 
 # ifeng.com
 #big1.ifengcdn.com
