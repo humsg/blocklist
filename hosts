@@ -117,8 +117,8 @@ ads.ak.facebook.com
 creative.ak.fbcdn.net
 connect.facebook.net
 graph.facebook.com
-web.facebook.com
-www.facebook.com
+#web.facebook.com
+#www.facebook.com
 
 # Flyertrip
 #flyerteaphoto.b0.aicdn.com
