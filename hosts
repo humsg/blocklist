@@ -33,7 +33,6 @@ userlink.alicdn.com
 # Amazon
 #a.media-amazon.com
 #images-na.ssl-images-amazon.com
-#msh.amazon.com
 aviary.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
@@ -45,6 +44,10 @@ c.amazon-adsystem.com
 s.amazon-adsystem.com
 unagi-na.amazon.com
 unagi.amazon.com
+msh.amazon.com
+m.media-amazon.com
+unagi-na.amazon.com
+transient.amazon.com
 
 # Apple
 #weather-data.apple.com
