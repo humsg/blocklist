@@ -5,6 +5,8 @@ t.appsflyer.com
 check.rayjump.com
 lazy.rayjump.com
 #best.ovslegodl.sched.ovscdns.com
+o1069899.ingest.sentry.io
+api2.branch.io
 
 # 163
 appconf.mail.163.com
@@ -24,6 +26,7 @@ link.netease.im
 #vo.aicdn.com
 adashbc.ut.taobao.com
 adashxgc.ut.taobao.com
+adashx4ae.ut.taobao.com
 cbu01.alicdn.com
 #gw.alicdn.com
 #heic.alicdn.com
@@ -165,12 +168,14 @@ wanproxy-hz.127.net
 #yt3.ggpht.com
 #www.googletagmanager.com
 adservice.google.com
+googleads.g.doubleclick.net
 play.google.com
 ssl.google-analytics.com
 www.googleadservices.com
 www.google-analytics.com
 safebrowsing.googleapis.com
 #update.googleapis.com
+app-measurement.com
 
 # ifeng.com
 #big1.ifengcdn.com
@@ -267,7 +272,10 @@ xlog.jd.com
 # Microsoft
 activity.windows.com
 settings-win.data.microsoft.com
+mobile.events.data.microsoft.com
+#mobile.pipe.aria.microsoft.com
 #cs9.wac.phicdn.net
+in.appcenter.ms
 
 # Nintendo
 #c.shop.nintendowifi.net
@@ -299,6 +307,10 @@ settings-win.data.microsoft.com
 #dragons.hac.lp1.dragons.nintendo.net
 #versionlist for 3DS, switch?
 #tagaya-ctr.cdn.nintendo.net
+
+Reddit
+w3-reporting.reddit.com
+e.reddit.com
 
 # Sina
 #api.weibo.com
