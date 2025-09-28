@@ -96,6 +96,14 @@ miniapp.bilibili.com
 #broadcast.chat.bilibili.com
 #app.bilibili.com
 #i.w.bilicdn1.com
+#i0.hdslb.com.cdn20.com
+#upos-sz-static.bilivideo.com
+#passport.bilibili.com
+#grpc.biliapi.net
+#api.vc.bilibili.com
+#member.bilibili.com
+line3-h5-mobile-api.biligame.com
+pay.bilibili.com
 
 # COX
 #coxappapi.cox.com
@@ -307,6 +315,38 @@ in.appcenter.ms
 #dragons.hac.lp1.dragons.nintendo.net
 #versionlist for 3DS, switch?
 #tagaya-ctr.cdn.nintendo.net
+
+#Papergames
+#api-deepspace.papegames.com
+#comet.papegames.com
+#passport.papegames.com
+#apm.papegames.com
+#x3cn-loginsvr.papegames.com
+#x3cn-client-v5f07v7sh48a00mhuu.papegames.com
+#papegames.qiyukf.com
+auth.wosms.cn
+analytics.oceanengine.com
+ef-dongfeng.tanx.com
+beacon-api.aliyuncs.com
+beacon-api.aliyuncs.com
+fp-it.fengkongcloud.com
+network-monitor-sdk-x3cn-prod.cn-shanghai.log.aliyuncs.com
+enrichgw.10010.com
+network-monitor-sdk-x3cn-prod.cn-shanghai-b.log.aliyuncs.com
+dig.bdurl.net
+api-access.pangolin-sdk-toutiao1.com
+tnc3-alisc1.zijieapi.com
+toblog.ctobsnssdk.com
+api-access.pangolin-sdk-toutiao.com
+sf3-fe-tos.pglstatp-toutiao.com
+vmesh.miguvideo.com
+ios.bugly.qq.com
+v.miguvideo.com
+uem.migu.cn
+mazu.m.qq.com
+sdk.e.qq.com
+ca.iadsdk.apple.com
+ios.crashsight.qq.com
 
 # Reddit
 w3-reporting.reddit.com
