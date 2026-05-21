@@ -1,4 +1,4 @@
-# Other
+#Other
 poweredby.jads.co
 events.appsflyer.com
 t.appsflyer.com
@@ -8,14 +8,14 @@ lazy.rayjump.com
 o1069899.ingest.sentry.io
 api2.branch.io
 
-# 163
+#163
 appconf.mail.163.com
 analytics.163.com
 dr.netease.im
 lbs.netease.im
 link.netease.im
 
-# Alibaba
+#Alibaba
 #ynuf.aliapp.org
 #cf.aliyun.com
 #diablo.alibaba.com
@@ -33,7 +33,7 @@ cbu01.alicdn.com
 umdc.aliapp.org
 userlink.alicdn.com
 
-# Amazon
+#Amazon
 #a.media-amazon.com
 #images-na.ssl-images-amazon.com
 aviary.amazon.com
@@ -51,7 +51,7 @@ msh.amazon.com
 #m.media-amazon.com
 transient.amazon.com
 
-# Apple
+#Apple
 #weather-data.apple.com
 #a2047.dscb.akamai.net
 gdmf.apple.com
@@ -75,11 +75,11 @@ iphonesubmissions.apple.com
 #keyvalueservice.fe.apple-dns.net
 fbs.smoot.apple.com
 
-# Baidu
+#Baidu
 hm.baidu.com
 mobads.baidu.com
 
-# Bilibili
+#Bilibili
 #upos-sz-mirrorcosov.bilivideo.com
 #i0.hdslb.com
 #i1.hdslb.com
@@ -105,11 +105,11 @@ miniapp.bilibili.com
 line3-h5-mobile-api.biligame.com
 pay.bilibili.com
 
-# COX
+#COX
 #coxappapi.cox.com
 #saqzrun.x.incapdns.net
 
-# DaysMatter
+#DaysMatter
 app-cdn.2q10.com
 app-cdn.2q10.com.wswebpic.com
 beta.daysmatter.com
@@ -117,7 +117,7 @@ daysmatter.com
 icity-sh.2q10.com
 pic.yupoo.com
 
-# Douban
+#Douban
 #img1.doubanio.com
 #img2.doubanio.com
 #img3.doubanio.com
@@ -142,7 +142,7 @@ be0b0qfx.ovslegovideo.sched.apdcdn.com
 t-dsp.pinduoduo.com
 video-dsp.pddpic.com
 
-# Facebook
+#Facebook
 ads.ak.facebook.com
 creative.ak.fbcdn.net
 connect.facebook.net
@@ -150,7 +150,7 @@ connect.facebook.net
 #web.facebook.com
 #www.facebook.com
 
-# Flyertrip
+#Flyertrip
 #flyerteaphoto.b0.aicdn.com
 #ptf.flyertrip.com
 3n73bsog.tweb.sched.ovscdns.com
@@ -169,7 +169,7 @@ stat2.openinstall.io
 userlink.alicdn.com.danuoyi.tbcache.com
 wanproxy-hz.127.net
 
-# Google
+#Google
 update.googleapis.com
 #eligibility-panelresearch.googlevideo.com
 #redirector.googlevideo.com
@@ -185,7 +185,7 @@ www.google-analytics.com
 safebrowsing.googleapis.com
 app-measurement.com
 
-# ifeng.com
+#ifeng.com
 #big1.ifengcdn.com
 #d.ifengimg.com
 #i.ifeng.com
@@ -255,7 +255,7 @@ y3.ifengimg.com
 ztyumn.ifeng.com
 #ugc-img.ifengimg.com
 
-# iqiyi
+#iqiyi
 afdback.ppsimg.com
 cr-status.iqiyi.com
 cupid.iqiyi.com
@@ -271,13 +271,13 @@ show.ssports.com
 t7z.cupid.iqiyi.com
 www.qchannel01.cn
 
-# JD
+#JD
 kepler.jd.com
 knicks.jd.com
 mapi.m.jd.com
 xlog.jd.com
 
-# Microsoft
+#Microsoft
 activity.windows.com
 settings-win.data.microsoft.com
 mobile.events.data.microsoft.com
@@ -285,7 +285,7 @@ mobile.events.data.microsoft.com
 #cs9.wac.phicdn.net
 in.appcenter.ms
 
-# Nintendo
+#Nintendo
 #c.shop.nintendowifi.net
 #cbvc.cdn.nintendo.net
 #cbvc.nintendo.net
@@ -316,7 +316,7 @@ in.appcenter.ms
 #versionlist for 3DS, switch?
 #tagaya-ctr.cdn.nintendo.net
 
-OpenAI
+#OpenAI
 bzrcdn.openai.com
 bzr.openai.com
 
@@ -352,17 +352,20 @@ sdk.e.qq.com
 ca.iadsdk.apple.com
 ios.crashsight.qq.com
 
-# Reddit
+#portainer.io
+||portainer-io-assets.sfo2.digitaloceanspaces.com^
+
+#Reddit
 w3-reporting.reddit.com
 e.reddit.com
 
-# Sina
+#Sina
 #api.weibo.com
 
-# Synology
+#Synology
 srmdb.synology.com
 
-# Tencent
+#Tencent
 #dldir1.qq.com
 #minorshort.weixin.qq.com
 #extshort.weixin.qq.com
@@ -448,7 +451,7 @@ mi.gdt.qq.com
 #privacy.qq.com
 #ads.privacy.qq.com
 
-# Umeng
+#Umeng
 alogs.umengcloud.com
 alogs.umeng.com
 errlog.umeng.com
@@ -459,13 +462,13 @@ uop.umeng.com
 log.umsns.com
 v1.cnzz.com
 
-# Ubiquiti
+#Ubiquiti
 o21767.ingest.us.sentry.io
 trace.svc.ui.com
 trunking.svc.ui.com
 #fprint-ml-poc.dev.svc.ui.com	
 
-# Ximalaya
+#Ximalaya
 #imagev2.xmcdn.com
 #imagev2.xmcdn.com.w.cdngslb.com
 #download.ali.xmcdn.com
@@ -518,7 +521,7 @@ mhera.ximalaya.com
 ppstatic.test.ximalaya.com
 #s1.xmcdn.com
 
-# Adobe
+#Adobe
 192.150.14.69
 192.150.18.101
 192.150.18.108
@@ -597,7 +600,7 @@ www.wip2.adobe.com
 www.wip3.adobe.com
 www.wip4.adobe.com
 
-# public-doh-servers
+#public-doh-servers
 adblock.doh.mullvad.net
 adblock-dot.dnswarden.com
 adblock.mydns.network
