@@ -465,7 +465,9 @@ v1.cnzz.com
 #Ubiquiti
 o21767.ingest.us.sentry.io
 trace.svc.ui.com
+trace.dev.svc.ui.com
 trunking.svc.ui.com
+#fprint-api.unifi-ai.com
 #fprint-ml-poc.dev.svc.ui.com	
 
 #Ximalaya
